@@ -1,0 +1,7 @@
+{
+  "name": "MindTalent - Personality & Aptitude Test",
+  "description": "A professional-grade personality and talent testing platform featuring MBTI, DISC, and logic assessments with AI-driven growth insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
